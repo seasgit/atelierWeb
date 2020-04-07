@@ -1,0 +1,93 @@
+/* ============ Imports
+*/
+
+
+
+/* =========== Reset espaces  
+ */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* =========== Variables
+ */
+ 
+:root {
+    --color-primary : rgb(103, 116, 35);
+}
+
+/* =========== Titre ne niveau 1 de la page
+ */
+
+h1 {
+
+}
+
+/* =========== Section principale
+ */
+
+section {
+
+}
+
+/* =========== bloc figure 
+        1/3 largeur du bloc
+ */
+
+figure {
+
+}
+
+/* =====================================================
+    Element img dans figure
+*/
+
+figure img {
+
+}
+
+/* =====================================================
+    Titre de niveau 3 dans figure
+
+*/
+
+figure h3{
+
+}
+
+/* =======================================================
+    Au survol d'une figure
+        la photo est filtrée
+        le texte s'affiche
+*/
+
+figure:hover img {
+
+}
+
+figure:hover h3 {
+ 
+}
+
+
+/*========================================================
+
+    Le coeur pour indiquer que l'on aime cette photo
+
+*/
+
+div {
+
+}
+
+div span:first-child {
+
+}
+
+
+
+div span:last-child {
+
+}
